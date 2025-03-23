@@ -16,10 +16,10 @@ This is a completion of the Forage Mastercard Cybersecurity regarding a scenario
 * Task 1: Analyze the facts of the case and propose a toruble shooting method email that is professional and corrects all errors.
 * Task 2: PPTX of Task 2 but about email.
 * Task 3: Optional Personal Project Code (not included here) of the PPTX and relating to the case.
-* Completed by 3/22/20225 by VictoriaRaven
+* Completed by 8/24/2024 by VictoriaRaven
 
 ### What is on resume/linkedin:
-Mastercard Advisors & Consulting Services Job Simulation on Forage - March 2025
+Mastercard Cybersecuirty Job Simulation on Forage - August 2024
   * Completed a job simulation served as an analyst on Mastercard’s Security Awareness Team and helped identify and report
 security threats such as phishing
   * Analyzed and identified areas of business needed more robust security training and implemented training courses and
