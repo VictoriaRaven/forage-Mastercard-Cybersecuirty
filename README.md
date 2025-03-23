@@ -17,6 +17,7 @@ This is a completion of the Forage Mastercard Cybersecurity regarding a scenario
 * Task 2: PPTX of Task 2 but about email.
 * Task 3: Optional Personal Project Code (not included here) of the PPTX and relating to the case.
 * Completed by 8/24/2024 by VictoriaRaven
+* Time to complete all tasks: about 2 hours to complete alongside with UMGC classes.
 
 ### What is on resume/linkedin:
 Mastercard Cybersecuirty Job Simulation on Forage - August 2024
