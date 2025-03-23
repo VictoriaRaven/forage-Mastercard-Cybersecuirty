@@ -12,7 +12,7 @@ Other Links:
 
 ## Information
 
-This is a completion of the Forge Mastercard Cybersecurity regarding a scenario with emails. This includes a given email scneraio related to cybersecurity issues(phishing, etc), analyze and go through the steps of troubleshooting through a powerpoint presentation. I may include a code (optional) and personal project as inspiration of the case and it correlates to the email cyber attacks/concerns.
+This is a completion of the Forage Mastercard Cybersecurity regarding a scenario with emails. This includes a given email scneraio related to cybersecurity issues(phishing, etc), analyze and go through the steps of troubleshooting through a powerpoint presentation. I may include a code (optional) and personal project as inspiration of the case and it correlates to the email cyber attacks/concerns.
 * Task 1: Analyze the facts of the case and propose a toruble shooting method email that is professional and corrects all errors.
 * Task 2: PPTX of Task 2 but about email.
 * Task 3: Optional Personal Project Code (not included here) of the PPTX and relating to the case.
